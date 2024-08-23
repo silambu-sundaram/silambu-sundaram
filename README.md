@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 -->
 
 # Silambarasan Sindaravadanam
-## Associate Principal Product Engineer
 
 [LinkedIn](https://linkedin.com/in/silambarasan24) | [GitHub](https://github.com/silambu-sundaram)
 Email: silambu.sundaram@gmail.com
