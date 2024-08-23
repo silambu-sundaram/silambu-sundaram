@@ -34,7 +34,7 @@ Experienced Associate Principal Product Engineer with a proven track record of l
 ### Associate Principal Product Engineer
 **TEMENOS INDIA PVT LTD., Bangalore**
 *February 2022 - Present*
-Key Skills: NodeJS, GoLang, MongoDB, MySQL, AWS, Git, Redis, WorldPay, Radixx
+Key Skills: NodeJS, Javascript, HTML, CSS, Websocket, Microservices, 
 - Led the development of Temenos Visualizer, revolutionizing user experience through innovative design and functionality enhancements
 - Developed dynamic visualization features that empower users with intuitive data interpretation capabilities
 - Optimized user interface for seamless navigation and performance across multiple devices
