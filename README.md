@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 [LinkedIn](https://linkedin.com/in/silambarasan24) | [GitHub](https://github.com/silambu-sundaram)
 Email: silambu.sundaram@gmail.com
-Address: 31, First Floor, East End D Main road, 9th Block, Jayanagar, Bangalore - 560069
 
 ## PROFESSIONAL SUMMARY
 Experienced Associate Principal Product Engineer with a proven track record of leading the design, development, and delivery of innovative software solutions. Specialized in building large-scale, cloud-native applications using microservices and serverless architectures. Adept at leveraging cutting-edge technologies like Golang, NodeJS, and NoSQL databases to drive digital transformation in the fintech, e-commerce, and travel domains.
