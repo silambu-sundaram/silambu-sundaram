@@ -6,9 +6,7 @@
   <a href="mailto:silambu.sundaram@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
-<p align="center">
-  📍 Bangalore, India | 📞 +91 9620377877
-</p>
+<p align="center"> 📍 Bangalore, India </p>
 
 ## 👨‍💻 Professional Summary
 
@@ -35,55 +33,3 @@ Experienced Associate Principal Product Engineer and Full Stack Developer with o
   <img src="https://img.shields.io/badge/-JIRA-0052CC?style=flat-square&logo=jira" alt="JIRA">
 </p>
 
-## 💼 Professional Experience
-
-### Associate Principal Product Engineer
-**TEMENOS INDIA PVT LTD., Bangalore** *(February 2022 - Present)*
-
-Key Skills: Javascript, NodeJS, Git, Bash, Selenium Java, Agile methodology
-
-- Led development of Temenos Visualizer, revolutionizing user experience
-- Developed dynamic visualization features for intuitive data interpretation
-- Optimized UI for seamless navigation across multiple devices
-- Collaborated with cross-functional teams to integrate cutting-edge technologies
-
-### Technical Leader | Golang/NodeJs Developer
-**ROBOSOFT TECHNOLOGIES PVT LTD., Bangalore** *(December 2020 - January 2022)*
-
-Key Skills: NodeJS, Golang, MongoDB, MySQL, AWS, Git, Redis, WorldPay, Payment gateways, Bash
-
-- Spearheaded development of gobrightline.com, a train booking platform
-- Handled second phase development of thehaloapp.com, a financial application
-
-### Senior Software Engineer | Application Infrastructure and Flight Module Lead
-**SHOREBIRD TECHNOLOGIES PVT LTD. (Tripeur), Bangalore** *(August 2016 - December 2020)*
-
-Key Skills: NodeJs, TypeScript, ExpressJs, AWS Lambda, Python, Yii2, MongoDB, Nginx, Redis, Mocha/Chai, Nock, Active Directory, Bash, Kibana, Kubernetes
-
-- Led development of GSTRecon, an automated airline Goods and Services Tax (GST) invoice reconciliation tool
-- Designed and implemented comprehensive flight booking engine
-- Developed serverless components for GST reconciliation and payment integration
-- Managed team of developers and QA engineers
-
-### Software Developer | Full Stack Developer
-**VASPP TECHNOLOGIES PVT. LTD., Bangalore** *(May 2015 - July 2016)*
-
-Key Skills: Codeigniter, Angular 2, HTML, CSS, MySQL, Active Directory, Linux Server configuration, Google Map-API
-
-- Redesigned architecture for AAA-New York travel department booking system
-- Developed CorPool, a real-time transport infrastructure platform
-- Created Xofigo Champion's League (XCL), an interactive iPad app for Bayer
-
-### Software Developer | PHP Developer and UI/UX Designer
-**PURPLEFRONT TECHNOLOGIES PVT LTD, Bangalore** *(January 2013 - March 2015)*
-
-Key Skills: Yii, Javascript, CakePHP, jQuery, HTML, CSS, MySQL, Facebook-API, Google-API
-
-- Developed Aaskar pet resort booking system
-- Created Facebook API integrations for page post scheduling and analytics
-- Designed and developed custom early learning school websites
-
-## 🎓 Education
-
-- **Master of Computer Application** - Annamalai University, Chidambaram, Tamilnadu (2013)
-- **Bachelor of Science in Computer Science** - Thiruvalluvar Arts and Science College, Kurinjipadi, Tamilnadu (2010)
